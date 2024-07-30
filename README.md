@@ -1,6 +1,5 @@
 # End-to-End Testing for a Login Form Using Cypress
 
-<a href='https://ko-fi.com/changhuixu' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## [Medium Article](https://levelup.gitconnected.com/environment-variables-in-cypress-end-to-end-testing-e2f20acd6a86)
 
@@ -30,4 +29,4 @@ Cypress provides several ways to work with environment variables. In its documen
 
 Feel free to use the code in this repository as it is under MIT license.
 
-<a href='https://ko-fi.com/changhuixu' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+>
